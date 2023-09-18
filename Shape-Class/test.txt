@@ -1,0 +1,8 @@
+ Circle t = new Circle();
+Circle b = new Circle();
+Circle h = new Circle();
+Snake s = new Snake(10, 15, h, b, t);
+s.home();
+s.left();
+s.right();
+s.down();

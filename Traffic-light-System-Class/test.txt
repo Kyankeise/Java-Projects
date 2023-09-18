@@ -1,0 +1,17 @@
+Circle w = new Circle();
+TrafficLight aTrafficLightW = new TrafficLight(w);
+Circle e = new Circle();
+TrafficLight aTrafficLightE = new TrafficLight(e);
+Circle n = new Circle();
+TrafficLight aTrafficLightN = new TrafficLight(n);
+Circle s = new Circle();
+TrafficLight aTrafficLightS = new TrafficLight(s);
+
+// create a traffic light system
+TrafficSystem ts = new TrafficSystem(aTrafficLightN, aTrafficLightS, aTrafficLightE, aTrafficLightW);
+
+ts.cycleState();
+ts.colourAllLights();
+ts.runLights();
+ts.setGo(false);
+ts.manualOverride();

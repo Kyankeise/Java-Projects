@@ -1,0 +1,12 @@
+RacingDriver newDriver = new RacingDriver("Kyan Keise","21",12);
+newDriver.toString();
+newCar.toString();
+newDriver.setName("Cory Keise");
+newDriver.setNumber("11");
+newDriver.setWins(9);
+newCar.setRacingTeam("Ferrari");
+newCar.setChassisNumber("F2004");
+
+Vehicle newCar = new Vehicle(newDriver,"W08","Mercedes");
+
+newCar.driversChampion();
