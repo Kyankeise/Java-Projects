@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Vehicle here.
+ * Vehicle class represents a race car defined by the driver, the racing team and the chassis number.
  * 
  * @author (Kyan Keise) 
  * @version (21/01/2019)
