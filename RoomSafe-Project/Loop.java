@@ -2,8 +2,8 @@
 /**
  * Write a description of class Loop here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Kyan Keise) 
+ * @version (12/12/2018)
  */
 public class Loop
 {
