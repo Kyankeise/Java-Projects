@@ -4,11 +4,10 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: M250 TMA01 Q1
+PROJECT TITLE: RoomSafe Project
 PURPOSE OF PROJECT: To answer TMA01 Q1
 VERSION or DATE: 1.0
-HOW TO START THIS PROJECT: Open the OUWorkspace in BlueJ
-AUTHORS: M250 module team
+AUTHORS: Kyan Keise
 USER INSTRUCTIONS: use the instructions below to test your code
 
 RoomSafe room5safe = new RoomSafe();
