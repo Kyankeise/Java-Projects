@@ -5,9 +5,9 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: RoomSafe Project
-PURPOSE OF PROJECT: To answer TMA01 Q1
-VERSION or DATE: 1.0
+VERSION or DATE: (12/12/2018)
 AUTHORS: Kyan Keise
+
 USER INSTRUCTIONS: use the instructions below to test your code
 
 RoomSafe room5safe = new RoomSafe();
