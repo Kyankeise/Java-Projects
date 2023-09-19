@@ -4,8 +4,8 @@ import java.io.*;
 
 import ou.*;
 /**
- * Write a description of class WCCR here.
  * 
+ *
  * @author (Kyan Keise D1505719) 
  * @version (01/05/2019)
  */
