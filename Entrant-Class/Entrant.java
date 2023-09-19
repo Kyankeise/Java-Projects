@@ -3,7 +3,7 @@
  * Class Entrant - Simulates an entrant in Walton Classic Car Race.
  * 
  * @author Kyan Keise
- * @version Version 1.0
+ * @version 01/05/2019
  */
 public class Entrant implements Comparable<Entrant>
 {
@@ -43,8 +43,6 @@ public class Entrant implements Comparable<Entrant>
 
    }
    
-   
-   //Only those getter and setter methods that you will need have been included
 
    /**
     * getter for number
@@ -102,10 +100,6 @@ public class Entrant implements Comparable<Entrant>
       time = aTime;
    }
    
-   /**
-    * method will need to compare the time instance variables of the receiver
-    * and the method's argument and return an int.
-    */
    public int compareTo(Entrant anotherEntrant)
    {
       return Double.compare(getTime(), anotherEntrant.getTime());
