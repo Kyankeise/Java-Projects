@@ -2,7 +2,7 @@
 /**
  * Class Entrant - Simulates an entrant in Walton Classic Car Race.
  * 
- * @author M250 Course Team 
+ * @author Kyan Keise
  * @version Version 1.0
  */
 public class Entrant implements Comparable<Entrant>
