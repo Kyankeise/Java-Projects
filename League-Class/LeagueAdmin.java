@@ -1,10 +1,10 @@
 import java.util.*;
 
 /**
- * class LeagueAdmin for TMA03Q2.
+ * class LeagueAdmin to add record and print out a teas results.
  * 
- * @author (M250 module team) 
- * @version (1.0)
+ * @author Kyan Keise
+ * @version 20/05/2019
  */
 public class LeagueAdmin {
    // Instance variable
